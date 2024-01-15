@@ -1,8 +1,12 @@
-# React + Vite
+# Meme Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Create a meme for comedic value!
 
-Currently, two official plugins are available:
+This is a project I worked on to better my understanding of React.Js.
+While utilizing the concepts of useState, props, and even useEffect to create useable components to display my app.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+During this project I learned that forms are handled differently within React since they are updated as soon as the user interacts with the inputs.
+
+Another lesson I learned is that API calls occurs outside the rendering of a React app and instructions must be given to encourage a API call.
+
+My biggest take away from this project is that React web apps can be really fun and interesting to build!
